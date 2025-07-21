@@ -17,9 +17,10 @@ I'm a Ghanaian full-stack developer with a drive for building meaningful solutio
 
 ## 🚀 Projects That Matter
 
-- 🎯 **FlexiConvert** – Image converter tool with format, size, and AI compression (Laravel + PHP + Tailwind)
+- 🎯 **PNGenius** – Image converter tool with format, size, and AI compression (Laravel + PHP + Tailwind)
 - 🛡️ **System Tracker** – Network-based agent/server system to monitor data usage on company PCs
 - 💸 **Digital Susu** – A USSD-powered micro-savings app built for low-tech communities
+- 🪚 **Empire Kitchen**  - A workflow system built to streamline carpentry and kitchen design operations.  
 
 ---
 
