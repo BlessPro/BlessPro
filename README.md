@@ -16,7 +16,6 @@ I'm a Ghanaian full-stack developer with a drive for building meaningful solutio
 ---
 
 ## 🚀 Projects That Matter
-> (Here’s where you can add project cards later)
 
 - 🎯 **FlexiConvert** – Image converter tool with format, size, and AI compression (Laravel + PHP + Tailwind)
 - 🛡️ **System Tracker** – Network-based agent/server system to monitor data usage on company PCs
@@ -40,14 +39,6 @@ A workflow system built to streamline carpentry and kitchen design operations.
 
 ---
 
-### 🌐 **Live Websites I've Built**
-- 🔗 [Edge Forward Solutions](https://edgeforwardsolutions.com/)
-- 🔗 [Birnie Gray Farms](https://birniegrayfarms.com/)
-- 🔗 [Arfairch Lawyers](https://arfairchlawyers.com/)
-- 🔗 [Skin Pharma Global](https://skinpharmaglobal.com/)
-- 🔗 [Cedar Driving Academy](https://cedardrivingacademy.com/)
-
----
 
 ## 🧰 Tech Stack
 
@@ -83,6 +74,14 @@ A workflow system built to streamline carpentry and kitchen design operations.
 
 ---
 
+### 🌐 **Live Websites I've Built**
+- 🔗 [Edge Forward Solutions](https://edgeforwardsolutions.com/)
+- 🔗 [Birnie Gray Farms](https://birniegrayfarms.com/)
+- 🔗 [Arfairch Lawyers](https://arfairchlawyers.com/)
+- 🔗 [Skin Pharma Global](https://skinpharmaglobal.com/)
+- 🔗 [Cedar Driving Academy](https://cedardrivingacademy.com/)
+
+---
 ## 🏢 Experience
 
 ### 💼 [ThinkTech Digital](https://thinktechdigital.net/)
