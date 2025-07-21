@@ -20,7 +20,12 @@ I'm a Ghanaian full-stack developer with a drive for building meaningful solutio
 - 🎯 **PNGenius** – Image converter tool with format, size, and AI compression (Laravel + PHP + Tailwind)
 - 🛡️ **System Tracker** – Network-based agent/server system to monitor data usage on company PCs
 - 💸 **Digital Susu** – A USSD-powered micro-savings app built for low-tech communities
-- 🪚 **Empire Kitchen**  - A workflow system built to streamline carpentry and kitchen design operations.  
+- 🪚 **Empire Kitchen**  - A workflow system built to streamline carpentry and kitchen design operations.
+- 🗂️ **Vaultflow** – Image Storage & Management System.
+        This is aecure, modern image storage application designed for efficient image management and optimized internet performance.
+- 🔄 Vault – Smart Agent for Vaultflow
+        is the lightweight agent that works alongside Vaultflow. It handles intelligent, bit-by-bit image uploads to adapt to varying internet conditions — ensuring that uploads are **resumable**, **bandwidth-aware**, and **power efficient**.
+
 
 ---
 
