@@ -24,6 +24,31 @@ I'm a Ghanaian full-stack developer with a drive for building meaningful solutio
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 **PNGenius**  
+Image conversion web app that supports multiple formats with a clean, responsive UI.  
+**Stack:** Laravel, PHP, TailwindCSS, GD/Imagick  
+[GitHub Repo Coming Soon]
+
+---
+
+### 🪚 **Empire Kitchen**  
+A workflow system built to streamline carpentry and kitchen design operations.  
+**Stack:** Laravel, JavaScript, MySQL  
+[Private Project – Internal Use]
+
+---
+
+### 🌐 **Live Websites I've Built**
+- 🔗 [Edge Forward Solutions](https://edgeforwardsolutions.com/)
+- 🔗 [Birnie Gray Farms](https://birniegrayfarms.com/)
+- 🔗 [Arfairch Lawyers](https://arfairchlawyers.com/)
+- 🔗 [Skin Pharma Global](https://skinpharmaglobal.com/)
+- 🔗 [Cedar Driving Academy](https://cedardrivingacademy.com/)
+
+---
+
 ## 🧰 Tech Stack
 
 ### 💻 Languages & Frameworks
